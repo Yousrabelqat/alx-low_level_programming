@@ -3,8 +3,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-
-int _isupper(int c)
+int _putchar(char c)
 {
-return (c >= 'A' && c <= 'Z');
+return putchar(c);
 }
