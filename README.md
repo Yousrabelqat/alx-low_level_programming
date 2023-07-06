@@ -1,1 +1,1 @@
-0x00. C - Hello, World
+0x14. C - Bit manipulation
